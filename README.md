@@ -26,6 +26,5 @@ The project is a part of research presented at the *2024 5th Global Conference f
 2. Compile the provided .c, .cpp, and .java test files using your respective language compilers.
 3. Run the lexical analyzer (in the final.ipynb file) on the sample code files to test the tokenization.
 
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+ 
 
